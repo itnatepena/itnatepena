@@ -10,7 +10,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/itnatepena/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/itnatepena/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/itnatepena/ticket-lifecycle)
 
 - <b>Cyber Security</b>
  - ["Inception" Testing Enviornment using Azure Virtual Machines](https://github.com/itnatepena/azure-vm-network-project)
