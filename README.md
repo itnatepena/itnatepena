@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure - Active Directory</b>
   - [Installing Active Directory in Azure](https://github.com/itnatepena/install-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/itnatepena/configure-ad)
 
