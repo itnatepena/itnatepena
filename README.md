@@ -11,6 +11,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/itnatepena/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/itnatepena/post-install-config)
 
+- <b>SQL Databases</b>
+  - [Introduction SQL Database Configure & Interaction](https://github.com/itnatepena/SQL-DB-Intro)
+
 - <b>Cyber Security</b>
    - ["Inception" Testing Enviornment using Azure Virtual Machines](https://github.com/itnatepena/azure-vm-network-project)
 
