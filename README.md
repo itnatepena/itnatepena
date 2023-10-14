@@ -12,7 +12,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/itnatepena/post-install-config)
 
 - <b>Cyber Security</b>
- - ["Inception" Testing Enviornment using Azure Virtual Machines](https://github.com/itnatepena/azure-vm-network-project)
+   - ["Inception" Testing Enviornment using Azure Virtual Machines](https://github.com/itnatepena/azure-vm-network-project)
+
+- <b>ANKI Flash Cards</b>
+  - [Studying Common Protocols](https://github.com/itnatepena/anki-flash-cards)
+
 
 <h2>🤳Connect with me:</h2>
 
