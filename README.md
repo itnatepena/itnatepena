@@ -14,8 +14,8 @@
 - <b>SQL Databases</b>
   - [Introduction SQL Database Configure & Interaction](https://github.com/itnatepena/SQL-DB-Intro)
 
-- <b>Cyber Security</b>
-   - ["Inception" Testing Enviornment using Azure Virtual Machines](https://github.com/itnatepena/azure-vm-network-project)
+- <b>Networking</b>
+   - [Azure VM Connectivity & File Sharing](https://github.com/itnatepena/azure-vm-network-project)
 
 - <b>ANKI Flash Cards</b>
   - [Studying Common Protocols](https://github.com/itnatepena/anki-flash-cards)
