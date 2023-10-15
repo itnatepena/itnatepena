@@ -29,4 +29,4 @@ LinkedIn: <p> [<img align="left" alt="natepena | LinkedIn" width="22px" src="htt
 [Nate Pena](https://www.linkedin.com/in/natepena)
 </p>
 Instagram:
-<p>📸 <a href="https://www.instagram.com/mastercraftfoods/">@mastercraftfoods</a> (Sole creator and curator) </p>
+<p>📸 <a href="https://www.instagram.com/mastercraftfoods/">@mastercraftfoods</a> (Sole Creator and Curator) </p>
