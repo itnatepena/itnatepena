@@ -1,4 +1,4 @@
-![igtest](https://github.com/itnatepena/itnatepena/assets/147539410/6b34873a-59c4-44ac-937b-f908456a1280)<h1>Hi, I'm Nate, an <a href="https://www.linkedin.com/in/natepena">IT Professional</a></h1>
+<h1>Hi, I'm Nate, an <a href="https://www.linkedin.com/in/natepena">IT Professional</a></h1>
 
 <h2>👾Information Technology Projects:</h2>
 
@@ -26,6 +26,8 @@
 LinkedIn: <p> [<img align="left" alt="natepena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/natepena
+
+[Nate Pena](https://www.linkedin.com/in/natepena)
 </p>
 <br>
 Instagram:
