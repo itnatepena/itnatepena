@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nate, an <a href="https://www.linkedin.com/in/natepena">IT Professional</a></h1>
+![igtest](https://github.com/itnatepena/itnatepena/assets/147539410/6b34873a-59c4-44ac-937b-f908456a1280)<h1>Hi, I'm Nate, an <a href="https://www.linkedin.com/in/natepena">IT Professional</a></h1>
 
 <h2>👾Information Technology Projects:</h2>
 
@@ -23,8 +23,10 @@
 
 <h2>🤝Connect with me:</h2>
 
-[<img align="left" alt="natepena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MasterCraftFoods | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+LinkedIn: <p> [<img align="left" alt="natepena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[instagram]: https://www.instagram.com/mastercraftfoods/
 [linkedin]: https://linkedin.com/in/natepena
+</p>
+<br>
+Instagram:
+<p>📸 <a href="https://www.instagram.com/mastercraftfoods/">@mastercraftfoods</a> (Sole creator and curator) </p>
