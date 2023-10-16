@@ -20,9 +20,9 @@
 - <b>Networking</b>
    - [Azure VM Connectivity & File Sharing](https://github.com/itnatepena/azure-vm-network-project)
 
-- <b>ANKI Flash Cards</b>
-  - [Studying Common Protocols](https://github.com/itnatepena/anki-flash-cards)
-
+- <b>Free Studying resources for ANKI Flash Cards</b>
+  - [Studying Common Protocols, Ports, and their Uses](https://github.com/itnatepena/anki-flash-cards)
+  
 
 <h2>🤝Connect with me:</h2>
 
@@ -32,4 +32,4 @@ LinkedIn: <p> [<img align="left" alt="natepena | LinkedIn" width="22px" src="htt
 [Nate Pena](https://www.linkedin.com/in/natepena)
 </p>
 Instagram:
-<p>📸 <a href="https://www.instagram.com/mastercraftfoods/">@mastercraftfoods</a> (Sole Creator and Curator) </p>
+<p>📸 <a href="https://www.instagram.com/mastercraftfoods/">@mastercraftfoods</a> (Sole Creator and Curator, a 2020 Social Media Project) </p>
