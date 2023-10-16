@@ -14,6 +14,9 @@
 - <b>SQL Databases</b>
   - [Introduction SQL Database Configure & Interaction](https://github.com/itnatepena/SQL-DB-Intro)
 
+- <b>Jira</b>
+  - [Jira Installation and Local Network Connectivity](https://github.com/itnatepena/jira-install)
+
 - <b>Networking</b>
    - [Azure VM Connectivity & File Sharing](https://github.com/itnatepena/azure-vm-network-project)
 
