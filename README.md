@@ -20,6 +20,9 @@
 - <b>Networking</b>
    - [Azure VM Connectivity & File Sharing](https://github.com/itnatepena/azure-vm-network-project)
 
+- <b>Python</b>
+  - [Using Python to Visualize how quick a computer guesses numbers](https://github.com/itnatepena/anki-flash-cards)
+
 - <b>Free Studying resources for ANKI Flash Cards</b>
   - [Studying Common Protocols, Ports, and their Uses](https://github.com/itnatepena/anki-flash-cards)
   
