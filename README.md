@@ -21,7 +21,7 @@
    - [Azure VM Connectivity & File Sharing](https://github.com/itnatepena/azure-vm-network-project)
 
 - <b>Python</b>
-  - [Password Security Visualization: The Need for Stronger Passwords]([https://github.com/itnatepena/anki-flash-cards](https://github.com/itnatepena/rng-num-guess))
+  - [Password Security Visualization: The Need for Stronger Passwords](https://github.com/itnatepena/rng-num-guess)
 
 - <b>Free Studying resources for ANKI Flash Cards</b>
   - [Studying Common Protocols, Ports, and their Uses](https://github.com/itnatepena/anki-flash-cards)
