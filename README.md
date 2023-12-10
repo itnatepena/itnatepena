@@ -23,7 +23,7 @@
 - <b>Python</b>
   - [Password Security Visualization: The Need for Stronger Passwords](https://github.com/itnatepena/rng-num-guess)
 
-- <b>Ethical Hacking</b>
+- <b>Ethical Hacking // CTF</b>
   - [Gandalf AI GPT](https://github.com/itnatepena/GandalfAI)
 
 - <b>Free Studying resources for ANKI Flash Cards</b>
